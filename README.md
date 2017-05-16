@@ -2,7 +2,7 @@
 <p align="center">
   <h2 align="center">Lullabyte: An Android Internet-of-Things app</h2>
 </p>
-## Make story-time better with animations and mood lighting 
+## Make story-time better with animations and mood lighting <br />
 Demo Video: https://www.youtube.com/watch?v=zsQBbK6TZoM
 
 
