@@ -1,3 +1,7 @@
+<p align="center">
+  <h2 align="center">Lullabyte: An Android Internet-of-Things app</h2>
+</p>
+<img src="https://ibb.co/mbxaqk" height="200" width="100">
 #  Lullabyte: An Android Internet-of-Things app
 ## Make story-time better with animations and mood lighting 
 
