@@ -1,5 +1,9 @@
 ## Make story-time better with animations and mood lighting <br />
 Demo Video: https://www.youtube.com/watch?v=zsQBbK6TZoM
+Tester Reaction 1: https://youtu.be/1scF4nsF50s
+Tester Reaction 2: https://youtu.be/jXu3xTtqUlM
+Tester Reaction 3: https://youtu.be/JRDatat6F_M
+
 
 <p align="center">
   <h2 align="center">Lullabyte: An Android Internet-of-Things app</h2>
