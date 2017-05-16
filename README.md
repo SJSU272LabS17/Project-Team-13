@@ -8,7 +8,8 @@ The time parents spend with their children has a high impact towards the childre
 
 Relevant content in this GitHub Repo is included at- 
 **Android app code:** project_code/272test2
-**Final Report:** FinalReport.pd
+
+**Final Report:** FinalReport.pdf
 
 
 References:
