@@ -1,4 +1,4 @@
-#  IoT_StoryTime
+#  Lullabyte: An Android Internet-of-Things app
 ## Story teller with animation + mood lighting 
 
 
