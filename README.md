@@ -11,7 +11,7 @@ The time parents spend with their children has a high impact towards the childre
 **Our solution:** We will create an app that will recognize and analyze what the parents read and transform this spoken story into an animation/slideshow of relevant images. Our plan is to use the IBM Watson speech to text library to create an app integrated with an image gallery and Phillips Hue Lightbulbs to bring bedtime stories to life.
 
 
-![My Image](https://github.com/SJSU272LabS17/Project-Team-6/blob/master/BasketApp.gif)
+![My Image](https://github.com/SJSU272LabS17/Project-Team-13/blob/master/GifDemo.gif)
 
 References:
 
