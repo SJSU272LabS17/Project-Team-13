@@ -6,9 +6,13 @@ The time parents spend with their children has a high impact towards the childre
 
 **Our solution:** We will create an app that will recognize and analyze what the parents read and transform this spoken story into an animation/slideshow of relevant images. Our plan is to use the IBM Watson speech to text library to create an app integrated with an image gallery and Phillips Hue Lightbulbs to bring bedtime stories to life.
 
+Relevant content in this GitHub Repo is included at- 
+**Android app code:** project_code/272test2
+**Final Report:** FinalReport.pd
+
 
 References:
 
-1. https://ranjanr.blogspot.com/
+[1] https://ranjanr.blogspot.com/
 
-2. https://news.uci.edu/research/todays-parents-spend-more-time-with-their-kids-than-moms-and-dads-did-50-years-ago/
+[2] https://news.uci.edu/research/todays-parents-spend-more-time-with-their-kids-than-moms-and-dads-did-50-years-ago/
