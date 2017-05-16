@@ -1,5 +1,7 @@
 
-#  Lullabyte: An Android Internet-of-Things app
+<p align="center">
+  <h2 align="center">Lullabyte: An Android Internet-of-Things app</h2>
+</p>
 ## Make story-time better with animations and mood lighting 
 Demo Video: https://www.youtube.com/watch?v=zsQBbK6TZoM
 
@@ -8,9 +10,7 @@ The time parents spend with their children has a high impact towards the childre
 
 **Our solution:** We will create an app that will recognize and analyze what the parents read and transform this spoken story into an animation/slideshow of relevant images. Our plan is to use the IBM Watson speech to text library to create an app integrated with an image gallery and Phillips Hue Lightbulbs to bring bedtime stories to life.
 
-<p align="center">
-  <h2 align="center">Lullabyte: An Android Internet-of-Things app</h2>
-</p>
+
 <img src="http://i64.tinypic.com/ibckdw.png" height="200" width="100">
 
 References:
