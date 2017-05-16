@@ -8,8 +8,11 @@ Tester Reaction 1: https://youtu.be/1scF4nsF50s <br />
 Tester Reaction 2: https://youtu.be/jXu3xTtqUlM <br />
 Tester Reaction 3: https://youtu.be/JRDatat6F_M
 
+<p align="center">
+  <h2 align="center">Improve story-time with animations and mood lighting</h2>
+</p>
+<br />
 
-## Improve story-time with animations and mood lighting <br />
 
 
 The time parents spend with their children has a high impact towards the childrens' personal development. UC Irvine research shows that today’s parents spend more time with their children compared to parents did 50 years ago (Reference 1). We want to improve the quality of the time that the parents spend with their children. In our digital era where tablets and smartphones are ubiquitous, it is not enough for children to just listen to stories.
