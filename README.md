@@ -20,7 +20,7 @@ References:
 
 ### Relevant content in this GitHub Repo is located at- 
 
-**Android app code:** project_code/272test2
+**Android app code:** https://github.com/SJSU272LabS17/Project-Team-13/tree/master/project_code/272test2
 
 **Final Report:** https://github.com/SJSU272LabS17/Project-Team-13/blob/master/FinalReport.pdf
 
