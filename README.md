@@ -22,4 +22,5 @@ References:
 
 **Android app code:** project_code/272test2
 
-**Final Report:** FinalReport.pdf
+**Final Report:** https://github.com/SJSU272LabS17/Project-Team-13/blob/master/FinalReport.pdf
+
