@@ -15,7 +15,7 @@ References:
 [2] https://news.uci.edu/research/todays-parents-spend-more-time-with-their-kids-than-moms-and-dads-did-50-years-ago/
 
 
-### Relevant content in this GitHub Repo is included at- 
+### Relevant content in this GitHub Repo is located at- 
 
 **Android app code:** project_code/272test2
 
