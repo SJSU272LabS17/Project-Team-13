@@ -12,7 +12,6 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <uses-permission android:name="android.permission.INTERNET"/>
 
         <activity
         android:name="com.example.aditi.a272test2.Splash"

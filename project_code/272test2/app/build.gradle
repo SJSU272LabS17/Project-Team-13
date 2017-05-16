@@ -10,6 +10,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -28,14 +29,11 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:design:25.3.1'
-    compile 'javax.json:javax.json-api:1.0'
     compile 'com.ibm.watson.developer_cloud:android-sdk:0.2.3'
     compile 'com.ibm.watson.developer_cloud:java-sdk:3.8.0'
-//    compile 'com.ibm.watson.developer_cloud:natural-language-understanding:3.8.0'
     compile group: 'org.glassfish', name: 'javax.json', version: '1.0.4'
 
     compile 'com.facebook.fresco:fresco:1.3.0'
-    // If your app supports Android versions before Ice Cream Sandwich (API level 14)
     compile 'com.facebook.fresco:animated-base-support:1.3.0'
 
     // For animated GIF support
